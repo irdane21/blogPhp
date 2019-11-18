@@ -1,0 +1,15 @@
+{
+    "name": "macbookpro/mon-blog",
+    "authors": [
+        {
+            "name": "Adrien Lefrancq",
+            "email": "irdane2111@gmail.com"
+        }
+    ],
+    "description": "je suis la description",
+    "require": {
+        "fzaninotto/faker": "^1.9",
+        "nesbot/carbon": "^2.26",
+        "filp/whoops": "^2.5"
+    }
+}
